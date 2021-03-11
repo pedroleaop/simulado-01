@@ -8,7 +8,7 @@
 ## Pedro Leão
 =======
 <<<<<<< HEAD
-jordanna christina editou isso novamente
+jordanna christina editou  e apagou isso novamente
 =======
 ## Nágella Nasser
 >>>>>>> 9f5697c63cfed7bf63c08fef0d0634bd023d91fc
