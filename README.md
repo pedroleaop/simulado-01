@@ -1,6 +1,7 @@
 # simulado-01
 
 <<<<<<< HEAD
+Juliana Mesquita - Alterei 16:51
 <<<<<<< HEAD
 Fernanda =)
 =======
